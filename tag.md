@@ -38,7 +38,7 @@
 ### Font
 
 | Tag        | Description                                                          | Default CSS             |
-| :--------- | :------------------------------------------------------------------- | ----------------------- |
+| :--------- | :------------------------------------------------------------------- | :---------------------- |
 | `<b>`      | Defines bold text                                                    | font-weight:bold        |
 | `<strong>` | Defines important text                                               | font-weight:bold        |
 | `<u>`      | Defines text that should be stylistically different from normal text | font-style:underline    |
